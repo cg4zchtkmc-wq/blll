@@ -3,8 +3,8 @@
 
 @use 'abstracts/variables' with (
   $theme: '{{ site.theme_mode }}',
-  $font-family-base: ('Hurmit Nerd Font', sans-serif),
-  $font-family-heading: ('Hurmit Nerd Font', sans-serif)
+  $font-family-base: ('CommicShannsMono Nerd Font', sans-serif),
+  $font-family-heading: ('CommicShannsMono Nerd Font', sans-serif)
 );
 
 /* prettier-ignore */
