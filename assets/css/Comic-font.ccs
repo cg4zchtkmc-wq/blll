@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "ComicShannsMono Nerd Font";
+  src: url("../fonts/ComicShanns/ComicShannsMonoNerdFont-Regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
